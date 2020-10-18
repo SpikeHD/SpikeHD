@@ -19,4 +19,4 @@
   If ever you're looking for someone to collaborate on a project and think I may be able to help, I'd love to, so don't hesitate to contact me
 </p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=SpikeHD)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=SpikeHD&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
