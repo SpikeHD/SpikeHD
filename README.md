@@ -1,4 +1,6 @@
-<h2>Welcome! 👋</h2>
+<h2>Welcome! 👋</h2> 
+
+<img src="https://gpvc.arturio.dev/SpikeHD" />
 
 <p>
   I currently work as a software developer in British Columbia, Canada.
