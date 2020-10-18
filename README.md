@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>Welcome! 👋</h2>
 
-<!--
-**SpikeHD/SpikeHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I currently work as a software developer in British Columbia, Canada.
+</p>
 
-Here are some ideas to get you started:
+<h4>Stuff About Me</h4>
+<ul>
+  <li>👨‍💻 Most of my experience is in Javascript and NodeJS, although I also know C++, a tiny bit of Python, and MySQL</li>
+  <li>🍲 Other than programming, I enjoy rhythm games and spicy food</li>
+  <li>💙 I love helping people. Never be afraid to ask me something</li>
+  <li>🤖 I write and take commissions for Discord bots! If you're ever curious, DM me: SpikeHD#3336</li>
+  <li>🖼️ I'm probably most proud of my <a href="https://github.com/SpikeHD/AsciiVert">AsciiVert</a> project</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  If ever you're looking for someone to collaborate on a project and think I may be able to help, I'd love to, so don't hesitate to contact me
+</p>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=SpikeHD)](https://github.com/anuraghazra/github-readme-stats)
