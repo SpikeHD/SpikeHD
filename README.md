@@ -8,7 +8,7 @@
 
 <h4>Stuff About Me</h4>
 <ul>
-  <li>👨‍💻 Most of my experience is in Javascript and NodeJS, although I also know C++, a tiny bit of Python, and MySQL</li>
+  <li>👨‍💻 Most of my experience is in Javascript and NodeJS, although I also know C++, a tiny bit of Python, and MySQL (among some other things)</li>
   <li>🍲 Other than programming, I enjoy rhythm games and spicy food</li>
   <li>💙 I love helping people. Never be afraid to ask me something</li>
   <li>🤖 I write and take commissions for Discord bots! If you're ever curious, DM me: SpikeHD#3336</li>
