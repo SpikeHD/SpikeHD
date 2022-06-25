@@ -15,7 +15,7 @@
       <li>Browser Extensions</li>
       <li>HTML/CSS/JQuery</li>
       <li>React/Preact</li>
-      <li>UI libraries like Tauri and Neutralino</li>
+      <li>UI libraries like Electron, Tauri and Neutralino</li>
       <li>C++</li>
       <li>Java</li>
       <li>Rust</li>
