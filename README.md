@@ -19,14 +19,12 @@
       <li>C++</li>
       <li>Java</li>
       <li>Rust</li>
-      <li>Python (barely)</li>
       <li>SQL</li>
       <li>API development, including a small amount of GraphQL</li>
     </ul>
   </li>
-  <li>🍲 Other than programming, I enjoy spicy food and </li>
+  <li>🍲 Aside from all of that ^, I really like spicy food and collecting games I will never play</li>
   <li>💙 I enjoy helping people! Never be afraid to ask me something, unless it can be summarized in a GitHub issue 😪</li>
-  <li>🤖 I write and take commissions for Discord bots! If you're ever curious, DM me: SpikeHD#3336</li>
   <li>🖼️ I'm probably most proud of my <a href="https://github.com/SpikeHD/AsciiVert">AsciiVert</a> or <a href="https://github.com/SpikeHD/AmazonMonitor">AmazonMonitor</a> projects</li>
 </ul>
 
