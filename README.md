@@ -1,4 +1,4 @@
-<h2>Welcome! 👋</h2> 
+<h2>yo 🐎</h2> 
 
 <img src="https://gpvc.arturio.dev/SpikeHD" />
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Loading+Sleep+Schedule...;Loading+Failed"
