@@ -1,7 +1,6 @@
 <h2>yo 🐎</h2> 
 
 <img src="https://gpvc.arturio.dev/SpikeHD" />
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Loading+Sleep+Schedule...;Loading+Failed"
 
 <p>
   I currently work as a software developer in British Columbia, Canada.
@@ -16,10 +15,10 @@
       <li>HTML/CSS/JQuery</li>
       <li>React/Preact</li>
       <li>UI libraries like Electron, Tauri and Neutralino</li>
+      <li>SQL</li>
+      <li>Rust</li>
       <li>C++</li>
       <li>Java</li>
-      <li>Rust</li>
-      <li>SQL</li>
       <li>API development, including a small amount of GraphQL</li>
     </ul>
   </li>
