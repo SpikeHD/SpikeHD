@@ -27,4 +27,10 @@
   <li>🖼️ I'm probably most proud of my <a href="https://github.com/SpikeHD/CVHero">CVHero</a>, <a href="https://github.com/SpikeHD/AsciiVert">AsciiVert</a> or <a href="https://github.com/SpikeHD/AmazonMonitor">AmazonMonitor</a> projects</li>
 </ul>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=SpikeHD&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpikeHD&theme=nord_dark) 
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpikeHD&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spikehd&theme=nord_dark) 
+</div>
