@@ -6,7 +6,7 @@
 <img src="https://gpvc.arturio.dev/SpikeHD" />
 
 <p>
-  I currently work as a software developer in British Columbia, Canada.
+  I currently work as a software developer in Canada.
 </p>
 
 <h4>Stuff About Me</h4>
