@@ -31,7 +31,9 @@
 </ul>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpikeHD&theme=nord_dark) 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpikeHD&theme=nord_dark)
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpikeHD&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spikehd&theme=nord_dark) 
 </div>
