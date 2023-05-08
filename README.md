@@ -1,4 +1,7 @@
-<h2>yo 🐎</h2> 
+<div align="center">
+  <h3>yo 🐎</h3>
+  <h3><a href="http://spikehd.github.io/">My portfolio site</a></h3>
+</div>
 
 <img src="https://gpvc.arturio.dev/SpikeHD" />
 
