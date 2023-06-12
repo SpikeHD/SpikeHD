@@ -3,7 +3,7 @@
   <h3><a href="http://spikehd.github.io/">My portfolio site</a></h3>
 </div>
 
-<img src="https://gpvc.arturio.dev/SpikeHD" />
+<img src="https://badges.pufler.dev/years/SpikeHD" /> <img src="https://badges.pufler.dev/visits/SpikeHD/SpikeHD" />
 
 <p>
   I currently work as a software developer in Canada.
