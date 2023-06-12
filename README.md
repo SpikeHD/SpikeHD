@@ -27,7 +27,7 @@
   </li>
   <li>🍲 Aside from all of that ^, I really like spicy food and collecting games I will never play. <a href="https://steamdb.info/calculator/76561198106696130/?cc=ca">Proof.</a></li>
   <li>💙 I enjoy helping people! Never be afraid to ask me something, unless it can be summarized in a GitHub issue 😪</li>
-  <li>🖼️ I'm probably most proud of my <a href="https://github.com/SpikeHD/CVHero">CVHero</a>, <a href="https://github.com/SpikeHD/AsciiVert">AsciiVert</a> or <a href="https://github.com/SpikeHD/AmazonMonitor">AmazonMonitor</a> projects</li>
+  <li>🖼️ I'm probably most proud of my <a href="https://github.com/SpikeHD/CVHero">CVHero</a>, <a href="https://github.com/SpikeHD/CSMLC">CSMLC</a> or <a href="https://github.com/SpikeHD/AmazonMonitor">AmazonMonitor</a> projects</li>
 </ul>
 
 <div align="center">
