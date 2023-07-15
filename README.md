@@ -1,6 +1,6 @@
 <div align="center">
   <h3>yo 🐎</h3>
-  <h3><a href="http://spikehd.github.io/">My portfolio site</a></h3>
+  <h3><a href="http://spikehd.github.io/">My portfolio site</a> | <a href="https://discord.gg/agQ9mRdHMZ">Discord server</a></h3>
 </div>
 
 <img src="https://badges.pufler.dev/years/SpikeHD" /> <img src="https://badges.pufler.dev/visits/SpikeHD/SpikeHD" />
