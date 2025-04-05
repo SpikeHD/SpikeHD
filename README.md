@@ -29,7 +29,7 @@
   </li>
   <li>🍲 aside from all of that ^, i really like spicy food and collecting games i will never play 🤪
   <li>💙 i love helping! never be afraid to ask a question you think i may know the answer to</li>
-  <li>🖼️ i'm proud of most things i make, but i am specifically proud of <a href="https://github.com/SpikeHD/Dorion">dorion</a>, <a href="https://github.com/SpikeHD/AmazonMonitor">amazonmonitor</a>, and <a href="https://github.com/SpikeHD/AmazonMonitor">swerve</a></li>
+  <li>🖼️ i'm proud of most things i make, but i am specifically proud of <a href="https://github.com/SpikeHD/Dorion">dorion</a>, <a href="https://github.com/SpikeHD/AmazonMonitor">amazonmonitor</a>, and <a href="https://github.com/SpikeHD/spikehd.github.io">my portfolio site</a></li>
 </ul>
 
 <div align="center">
