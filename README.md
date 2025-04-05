@@ -9,7 +9,7 @@
   currently working as a software developer in canada
 </p>
 
-<h4>Stuff About Me</h4>
+<h4>stuff about me</h4>
 <ul>
   <li>👨‍💻 i have experience in all sorts of things:
     <ul>
