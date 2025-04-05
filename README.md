@@ -1,34 +1,35 @@
 <div align="center">
   <h3>yo 🐎</h3>
-  <h3><a href="http://spikehd.github.io/">My portfolio site</a> | <a href="https://discord.gg/agQ9mRdHMZ">Discord server</a></h3>
+  <h3><a href="http://spikehd.github.io/">portfolio site</a></h3>
+  <br/>
+  <img src="https://badges.pufler.dev/years/SpikeHD" /> <img src="https://badges.pufler.dev/visits/SpikeHD/SpikeHD" />
 </div>
 
-<img src="https://badges.pufler.dev/years/SpikeHD" /> <img src="https://badges.pufler.dev/visits/SpikeHD/SpikeHD" />
-
 <p>
-  I currently work as a software developer in Canada.
+  currently working as a software developer in canada
 </p>
 
 <h4>Stuff About Me</h4>
 <ul>
-  <li>👨‍💻 I have some experience in all sorts of different things:
+  <li>👨‍💻 i have experience in all sorts of things:
     <ul>
-      <li>JavaScript/NodeJS/TypeScript/NPM packages</li>
-      <li>Browser Extensions</li>
-      <li>HTML/CSS/JQuery</li>
-      <li>React/Preact</li>
-      <li>Web-to-desktop libraries like Electron, Tauri and Neutralino</li>
-      <li>SQL</li>
-      <li>Rust</li>
-      <li>C++</li>
-      <li>Java</li>
-      <li>API development, including a small amount of GraphQL</li>
-      <li>Docker, Kubernetes, and *some* components of AWS</li>
+      <li>javascript/nodejs/typescript/npm packages</li>
+      <li>html/css/related</li>
+      <li>react and preact</li>
+      <li>rust</li>
+      <li>docker, kubernetes, and *some* facets of aws and google cloud</li>
+      <li>other devops stuff (terraform, ansible)</li>
+      <li>web-to-desktop libraries like electron, tauri and neutralino</li>
+      <li>sql, postgres</li>
+      <li>api development, including a small amount of graphql</li>
+      <li>c++</li>
+      <li>java</li>
+      <li>browser extensions</li>
     </ul>
   </li>
-  <li>🍲 Aside from all of that ^, I really like spicy food and collecting games I will never play.
-  <li>💙 I enjoy helping people! Never be afraid to ask me something, unless it can be summarized in a GitHub issue 😪</li>
-  <li>🖼️ I'm probably most proud of my <a href="https://github.com/SpikeHD/Dorion">Dorion</a>, <a href="https://github.com/SpikeHD/CSMLC">CSMLC</a> or <a href="https://github.com/SpikeHD/AmazonMonitor">AmazonMonitor</a> projects</li>
+  <li>🍲 aside from all of that ^, i really like spicy food and collecting games i will never play 🤪
+  <li>💙 i love helping! never be afraid to ask a question you think i may know the answer to</li>
+  <li>🖼️ i'm proud of most things i make, but i am specifically proud of <a href="https://github.com/SpikeHD/Dorion">dorion</a>, <a href="https://github.com/SpikeHD/AmazonMonitor">amazonmonitor</a>, and <a href="https://github.com/SpikeHD/AmazonMonitor">swerve</a></li>
 </ul>
 
 <div align="center">
