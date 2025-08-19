@@ -1,8 +1,6 @@
 <div align="center">
   <h3>yo 🐎</h3>
   <h3><a href="https://spikehd.dev">portfolio site</a></h3>
-  <br/>
-  <img src="https://badges.pufler.dev/years/SpikeHD" /> <img src="https://badges.pufler.dev/visits/SpikeHD/SpikeHD" />
 </div>
 
 <p>
