@@ -1,6 +1,6 @@
 <div align="center">
   <h3>yo 🐎</h3>
-  <h3><a href="https://spikehd.dev">https://spikehd.dev</a></h3>
+  <h3><a href="https://spikehd.dev">https://spikehd.dev</a> | <a href="https://blog.spikehd.dev">https://blog.spikehd.dev</a></h3>
   <h5>wishlist CICADAMATA": <a href="https://store.steampowered.com/app/3817250/CICADAMATA/">https://store.steampowered.com/app/3817250/CICADAMATA/</a></h3>
 </div>
 
